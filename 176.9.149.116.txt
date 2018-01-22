@@ -12,7 +12,7 @@
 "tls_secure_algo" : true,
 "tls_fingerprint" : "",
 "pool_address" : "xmr-eu1.nanopool.org:14444",
-"wallet_address" : "42fEdDkESo848Gnh1p5pu8488qdmtXUvzLRdTx3JgS3342RCqXRkCBGhJY8VtNVMVBTqSmeC9TZREg3znANtxCAiRS9xEMQ.176.9.149.116-Intel Core i7-2600***[hetzner]***",
+"wallet_address" : "42fEdDkESo848Gnh1p5pu8488qdmtXUvzLRdTx3JgS3342RCqXRkCBGhJY8VtNVMVBTqSmeC9TZREg3znANtxCAiRS9xEMQ.176-9-149-116-Intel-Core-i7-2600-hetzner",
 "pool_password" : "",
 "call_timeout" : 10,
 "retry_time" : 10,
